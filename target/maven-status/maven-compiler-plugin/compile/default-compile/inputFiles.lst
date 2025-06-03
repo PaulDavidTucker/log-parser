@@ -1,1 +1,7 @@
-/home/paul/Documents/Projects/LogParser/log-parser/src/main/java/com/tucker/parser/App.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/LogAnalyser.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/LogParser.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/Main.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/Tui.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/obj/LogEntry.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/obj/LogLevel.java
+/home/paul/Documents/Projects/log-parser/src/main/java/com/tucker/parser/obj/LogSource.java

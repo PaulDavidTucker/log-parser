@@ -1,1 +1,5 @@
-com/tucker/parser/App.class
+com/tucker/parser/LogParser.class
+com/tucker/parser/Main.class
+com/tucker/parser/obj/LogLevel.class
+com/tucker/parser/obj/LogEntry.class
+com/tucker/parser/obj/LogSource.class
